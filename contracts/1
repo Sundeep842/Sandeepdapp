@@ -1,0 +1,17 @@
+prgama solidity ^0.0.4;
+ 
+contract SandeepDappToken{
+           // constructor
+
+           // set the v ariable
+	uint256  public totalSupply;
+ 	function SandeepDappToken () public {
+		totalSupply = 100000;
+					}
+	
+						
+
+
+
+}
+
