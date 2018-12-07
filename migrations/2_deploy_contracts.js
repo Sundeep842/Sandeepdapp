@@ -1,6 +1,6 @@
 var SandeepDappToken = artifacts.require("./SandeepDappToken.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(SandeepDappToken);
+  deployer.deploy(SandeepDappToken, 100000);
 };
 
